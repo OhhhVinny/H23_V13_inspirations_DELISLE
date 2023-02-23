@@ -32,6 +32,9 @@ L'oeuvre se situait en plein milieu de l'espace réservé. Les télévisions au 
 
 Les composantes de l'oeuvre se composent de 10 écrans dont une qui fait partie de la boîte principale avec les diverses composantes électroniques. Une multitude de fils se situe sous les télévisions du sol ce qui rendait la vue difficile pour certaines composantes qui pourraient s'y retrouver. L'artiste a aussi ajouté des vignes sortant de la boîte pour suivre l'idée et la réflexion autour de la Nature Morte 7.
 
+![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_boite_controle_01.png)
+![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_ecran_arriere.png)
+
 Étant donné que l'oeuvre comprend plusieurs écrans, beaucoup de fils sont nécessaires pour faire fonctionner le tout. Malgré qu'elle se situe en plein milieu de l'espace, la majorité des fils ont pu être cachés sous les télévisions situées au sol à l'exception de quelques composantes électroniques que nous pouvons apercevoir lorsque nous nous rapprochons. De plus, comme cité ci-dessus, il était nécessaire de suspendre les télévisions par deux fils de fer au plafond pour être certains qu'elles ne tombent pas.
 
 ## Expérience vécue
