@@ -1,1 +1,1 @@
-Ce répertoire comprend tous mes projets du cours 570V13MO 
+Ce répertoire comprend le TP1 de Vincent Delisle
