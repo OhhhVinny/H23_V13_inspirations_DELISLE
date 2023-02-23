@@ -1,1 +1,1 @@
-Ce dossier comprend les images importés pour utilisation dans le répertoire.
+Ce dossier comprend les images importées pour utilisation dans le répertoire.
