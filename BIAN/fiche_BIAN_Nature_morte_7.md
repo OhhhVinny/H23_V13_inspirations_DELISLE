@@ -1,6 +1,6 @@
 # BIAN
 
-La Biennale internationale d'Art numérique (BIAN) est un événement majeur dans le monde de l'art numérique. Cette exposition, créée en 2012, se déroule à Montréal, au Canada, et présente plusieurs projets d'art numérique et de nouveaux médias, notamment des installations interactives, des performances, des projections et des visites guidées. Cet événement est une exposition temporaire qui se déroule tous les deux ans à Montréal. 
+La Biennale internationale d'Art numérique (BIAN) est un événement majeur dans le monde de l'art numérique. Cette exposition, créée en 2012, se déroule à Montréal, au Canada, et présente plusieurs projets d'art numérique et de nouveaux médias, notamment des installations interactives, des performances, des projections et des visites guidées. Cet événement est une exposition temporaire et ceci est la 6e édition.
 
 Les installations et les œuvres d'art présentées sont principalement exposées à l'intérieur en raison des équipements électroniques qu'on y retrouve. La BIAN a pour but de rassembler des artistes, des designers ainsi que des technologues pour explorer les différents défis et les opportunités de l'ère numérique et pour célébrer l'art numérique sous toutes ses formes. La Biennale vise également à promouvoir la création artistique et la recherche sur les technologies numériques. La BIAN est un événement incontournable pour tous les amateurs d'art numérique qui cherchent à découvrir les tendances les plus récentes et les plus novatrices de ce domaine en constante évolution.
 
