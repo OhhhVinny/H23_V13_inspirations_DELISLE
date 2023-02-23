@@ -6,6 +6,8 @@ Les installations et les œuvres d'art présentées sont principalement exposée
 
 Lors d'une visite de groupe, j'ai eu la chance de pouvoir assister à cette exposition le 2 février dernier située au 5445 av. de Gaspé, Montréal, QC H2T 3B2.
 
+![Photo prise devant la batisse de l'exposition](photos/BIAN_Nature_more_7_vue_batiment)
+
 ## Nature Morte 7
 
 Johann Baron Lanteigne, artiste montréalais, a créé Nature Morte 7 en 2022. Selon le cartel mis à disposition, l'œuvre est décrite comme suit :
