@@ -14,7 +14,7 @@ Johann Baron Lanteigne, artiste montréalais, a créé Nature Morte 7 en 2022. S
 
 L'œuvre fait appel au contenant autant qu'au contenu ; l'électronique physique est aussi apparente que ce qui est affiché à l'écran. Toutes les deux invitent à la réflexion en liant nos deux réalités vécues, physique et virtuelle. Le réseau modulaire d'électronique que l'on voit à l'arrière de la sculpture crée une lueur qui étend le monde virtuel dans l'écran, à l'aide de la lumière. L'œuvre agrandit et exagère également l'espace que prend une telle technologie, afin de souligner son omniprésence.»
 
-L'installation contemplative imaginée par cet artiste implique des vidéos en boucle sur les écrans.
+L'installation contemplative imaginée par cet artiste implique des vidéos en boucle sur les écrans. Cliquez ici [ttps://vimeo.com/669257884 (https://vimeo.com/669257884)) pour une vidéo.
 
 L'oeuvre se situait en plein milieu de l'espace réservé. Les télévisions au sol représentaient l'étendue de l'oeuvre que j'évaluerais dans les alentours de 8 pieds par 8 pieds. Au-dessus de ces télévisions, on y retrouve deux télévisions suspendues. Chacune d'entre elles est suspendue par deux fils d'acier sur des crochets ainsi qu'attachée à une barre de métal proche du plafond de l'immeuble, évalué à trois ou quatre étages.
 
