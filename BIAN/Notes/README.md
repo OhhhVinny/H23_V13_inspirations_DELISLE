@@ -1,2 +1,2 @@
 
-Ce dossier comprend les notes importés pour utilisation dans le répertoire.
+Ce dossier comprend les notes importées pour utilisation dans le répertoire.
