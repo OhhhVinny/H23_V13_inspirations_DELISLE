@@ -6,7 +6,7 @@ Les installations et les œuvres d'art présentées sont principalement exposée
 
 Lors d'une visite de groupe, j'ai eu la chance de pouvoir assister à cette exposition le 2 février dernier située au 5445 av. de Gaspé, Montréal, QC H2T 3B2.
 
-![Photo prise devant la batisse de l'exposition](H23_V13_inspirations_DELISLE/BIAN/Photos/BIAN_Nature_more_7_vue_batiment.png)
+![Photo prise devant la batisse de l'exposition](BIAN/Photos/BIAN_Nature_more_7_vue_batiment.png)
 
 ## Nature Morte 7
 
