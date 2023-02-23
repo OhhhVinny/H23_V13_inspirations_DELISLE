@@ -30,7 +30,11 @@ L'oeuvre se situait en plein milieu de l'espace réservé. Les télévisions au 
 
 ## Composantes et techniques
 
-Les composantes de l'oeuvre se composent de 10 écrans dont une qui fait partie de la boîte principale avec les diverses composantes électroniques. Une multitude de fils se situe sous les télévisions du sol ce qui rendait la vue difficile pour certaines composantes qui pourraient s'y retrouver. L'artiste a aussi ajouté des vignes sortant de la boîte pour suivre l'idée et la réflexion autour de la Nature Morte 7.
+Les composantes de l'oeuvre se composent de:
+- 10 écrans dont une qui fait partie de la boîte principale.
+- Diverses composantes électroniques.
+- Une multitude de fils se situe sous les télévisions du sol ce qui rendait la vue difficile pour certaines composantes qui pourraient s'y retrouver.
+- L'artiste a aussi ajouté des vignes sortant de la boîte pour suivre l'idée et la réflexion autour de la Nature Morte 7.
 
 ![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_boite_controle_01.png)![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_boite_controle_03.png)![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_boite_controle_05.png)![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_ecran_arriere.png)
 
