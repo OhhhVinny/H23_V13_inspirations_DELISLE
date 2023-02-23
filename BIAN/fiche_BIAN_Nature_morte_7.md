@@ -1,4 +1,4 @@
-# BIAN
+## BIAN
 
 La Biennale internationale d'Art numérique (BIAN) est un événement majeur dans le monde de l'art numérique. Cette exposition, créée en 2012, se déroule à Montréal, au Canada, et présente plusieurs projets d'art numérique et de nouveaux médias, notamment des installations interactives, des performances, des projections et des visites guidées. Cet événement est une exposition temporaire qui se déroule tous les deux ans à Montréal. 
 
@@ -38,5 +38,6 @@ Ce qui m'a moins plu dans l'œuvre de Johann est l'utilisation obligatoire d'un 
 
 
 # Références
-
+- https://arsenalcontemporarysale.ticketpro.ca/fr/pages/arsenal_art_contemporain_bian2022
+- https://www.artsouterrain.com/artiste/johann-baron-lanteigne/
 
