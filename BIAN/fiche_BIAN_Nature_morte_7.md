@@ -41,7 +41,7 @@ Les composantes de l'oeuvre se composent de 10 écrans dont une qui fait partie 
 
 ## Expérience vécue
 
-À première vue, l'oeuvre est simpliste et très abstraite. Cependant, après mon analyse personnelle et en écoutant les guides de la visite, j'ai rapidement compris l'image que l'artiste a voulu projeter avec celle-ci concernant l'ère virtuelle qui envahit notre quotidien ainsi que les problèmes environnementaux qui en découlent. L'oeuvre est contemplative donc nous pouvons interagir avec elle mais tous les écrans sont liés visuellement sur ce qu'ils projettent : le monde virtuel composé de la main dans la boîte principale ainsi que de la verdure. J'ai trouvé intéressant l'ajout des codes QR dispersés sur les animations qui nous rappellent la technologie qui nous entoure.
+À première vue, l'oeuvre est simpliste et très abstraite. Cependant, après mon analyse personnelle et en écoutant les guides de la visite, j'ai rapidement compris l'image que l'artiste a voulu projeter avec celle-ci concernant l'ère virtuelle qui envahit notre quotidien ainsi que les problèmes environnementaux qui en découlent. L'oeuvre est contemplative donc nous pouvons interagir avec elle mais tous les écrans sont liés visuellement sur ce qu'ils projettent : le monde virtuel composé de la main dans la boîte principale ainsi que de la verdure. J'ai trouvé intéressant l'ajout des codes QR dispersés sur les animations qui nous rappellent la technologie qui nous entoure. (voir hyperlien ci-dessus)
 
 ## Ce qui m'a plu, donné des idées
 
