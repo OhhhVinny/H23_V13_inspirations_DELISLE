@@ -37,6 +37,8 @@ Les composantes de l'oeuvre se composent de 10 écrans dont une qui fait partie 
 
 Étant donné que l'oeuvre comprend plusieurs écrans, beaucoup de fils sont nécessaires pour faire fonctionner le tout. Malgré qu'elle se situe en plein milieu de l'espace, la majorité des fils ont pu être cachés sous les télévisions situées au sol à l'exception de quelques composantes électroniques que nous pouvons apercevoir lorsque nous nous rapprochons. De plus, comme cité ci-dessus, il était nécessaire de suspendre les télévisions par deux fils de fer au plafond pour être certains qu'elles ne tombent pas.
 
+![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_installation_01.png) ![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_installation_02.png)
+
 ## Expérience vécue
 
 À première vue, l'oeuvre est simpliste et très abstraite. Cependant, après mon analyse personnelle et en écoutant les guides de la visite, j'ai rapidement compris l'image que l'artiste a voulu projeter avec celle-ci concernant l'ère virtuelle qui envahit notre quotidien ainsi que les problèmes environnementaux qui en découlent. L'oeuvre est contemplative donc nous pouvons interagir avec elle mais tous les écrans sont liés visuellement sur ce qu'ils projettent : le monde virtuel composé de la main dans la boîte principale ainsi que de la verdure. J'ai trouvé intéressant l'ajout des codes QR dispersés sur les animations qui nous rappellent la technologie qui nous entoure.
