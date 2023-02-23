@@ -30,11 +30,11 @@ Les composantes de l'oeuvre se composes de 10 écrans dont une qui fait partie d
 
 # Ce qui m'a plu, donné des idées
 
-J'ai trouvé l'image  assez choquant et impressionant en même temps ce que que j'ai vraiment aimé. De plus, cela m'a permis de comprendre aussi qu'une oeuvre multimédia n'est pas nécessairement de grande ampleurs et qu'ils suffits de quelque télévisions et des connaissances éléctroniques pour pouvoir conçevoir une oeuvre impressionnante et choquante. 
+J'ai trouvé la signification assez choquante et impressionante en même temps ce que que j'ai vraiment aimé. De plus, cela m'a permis de comprendre aussi qu'une oeuvre multimédia n'est pas nécessairement de grande ampleurs et qu'il suffit de quelque télévisions et de connaissances éléctroniques pour pouvoir conçevoir une oeuvre impressionnante et choquante. Le concept est très originale et les animations 3D comme celle là sont des pièce d'art qui m'attire beaucoup. Cela me motive à peut-être éventuellement me spécialiser dans ce type d'art. 
 
 # Ce qui m'a moins plu
 
-
+Ce qui m'a moins plu de l'oeuvre de Johann est l'utilisation obligatoire d'un support provenant du plafond. Cela rend l'oeuvre moins facilement présentable et moins polyvalent. Personnellement, si je ferais une oeuvre aussi sophistiqué, je voudrais qu'elle soit accessible dans n'importe quelle endroits. Un détail aussi qui m'a accroché est la visibilité de quelque composantes électronique sous les écrans. Je crois que si les fils étaients mieux dissimulés, cela aurait rajouté un effet supplémentaire à l'oeuvre.
 
 
 # Références
