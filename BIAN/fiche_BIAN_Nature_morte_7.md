@@ -8,7 +8,7 @@ Lors d'une visite de groupe, j'ai eu la chance de pouvoir assister à cette expo
 
 # Nature Morte 7
 
-Johann Baron Lanteigne, artiste montréalais, a créé Nature Morte 7 en 2022. Selon le site web officiel de l'artiste, l'oeuvre est décrite comme suit:
+Johann Baron Lanteigne, artiste montréalais, a créé Nature Morte 7 en 2022. Selon le cartel mise à disposition, l'oeuvre est décrite comme suit:
 
 «Nature Morte 7 présente une fenêtre – unique mais fragmentée – composée d'écrans posés au sol. Elle ouvre sur un monde oublié, mais toujours en activité. La pièce centrale de cette œuvre combine un écran avec divers composantes électroniques qui s’illumine. La sculpture suspendue tourne le dos au spectateur, afin de mettre en évidence son fonctionnement interne. L’électroniques « grand public » dont l'œuvre est composée sont délibérément sortis de leur contexte habituel. Cela permet de révéler leur potentiel, qui est souvent banalisé.
 
@@ -20,12 +20,23 @@ L'oeuvre se situait en plein millieu de l'espace réservé. Les télévision au 
 
 # Composantes et techniques
 
-L'
+Les composantes de l'oeuvre se composes de 10 écrans dont une qui fait partie de la boite princiaple avec les divers composantes électroniques. Une multitude de fil se situe sous les télévisions du sol ce qui rendait la vue difficile pour certaines compososantes qui pourraient s'y retrouver. L'artiste a aussi ajouter des vignes sortants de la boite pour suivre l'idée et la réflexion autour de la Nature Morte 7.
+
+Étant donné que l'oeuvre comprend plusieurs écrans, beaucoup de fillages sont nécéssaires pour faire fonctionner le tout. Malgré qu'elle se situe en plein millieu de l'espace, la majorité des fils ont pu être cacher sous les télévisions situées au sol à l'exception de quelques composantes éléctroniques que nous pouvoir aperçevoir lorsque nous nous rapprochons. De plus, comme cité ci-dessus, il est était nécessaire de suspendre les télés par deux fils de fers au plafond pour être certains qu'ils ne tombent pas.
 
 # Expérience vécue
 
-# Ce qui m'a plu, vous a donné des idées
+À la première vue, l'oeuvre est simplistique et très abstraite. Cependant, après mon analyse personnel et en écoutant les guides de la visite, j'ai compris rapidement l'image que l'artiste a voulu projeter avec celle-ci concernant l'ère virtuelle qui envahit notre quotidient ainsi que les problèmes environnementaux qui en suit. L'oeuvre est contemplative donc nous pouvons intéragir avec elle mais tous les écrans sont liées visuelement sur ce qu'elle projetent le monde virtuelle composée de la main dans la boite principales ainsi que de la verdures. J'ai trouvé intéressant l'ajout des code QR dispersé sur les animations qui nous rappels la technologie qui nous entoure.
+
+# Ce qui m'a plu, donné des idées
+
+J'ai trouvé l'image  assez choquant et impressionant en même temps ce que que j'ai vraiment aimé. De plus, cela m'a permis de comprendre aussi qu'une oeuvre multimédia n'est pas nécessairement de grande ampleurs et qu'ils suffits de quelque télévisions et des connaissances éléctroniques pour pouvoir conçevoir une oeuvre impressionnante et choquante. 
 
 # Ce qui m'a moins plu
 
+
+
+
 # Références
+
+
