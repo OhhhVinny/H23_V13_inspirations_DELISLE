@@ -20,9 +20,9 @@ Johann Baron Lanteigne, artiste montréalais, a créé Nature Morte 7 en 2022. S
 
 L'œuvre fait appel au contenant autant qu'au contenu ; l'électronique physique est aussi apparente que ce qui est affiché à l'écran. Toutes les deux invitent à la réflexion en liant nos deux réalités vécues, physique et virtuelle. Le réseau modulaire d'électronique que l'on voit à l'arrière de la sculpture crée une lueur qui étend le monde virtuel dans l'écran, à l'aide de la lumière. L'œuvre agrandit et exagère également l'espace que prend une telle technologie, afin de souligner son omniprésence.»
 
-![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_cartel.png)
-![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_vu_ensemble_arriere.png)
-![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_vu_ensemble_arriere_02.png)
+![Photo prise du cartel](Photos/BIAN_Nature_more_7_cartel.png)
+![Photo prise de la vue arrière de l'oeuvre](Photos/BIAN_Nature_more_7_vu_ensemble_arriere.png)
+![Photo prise d'une deuxième vue arrière de l'oeuvre](Photos/BIAN_Nature_more_7_vu_ensemble_arriere_02.png)
 
 L'installation contemplative imaginée par cet artiste implique des vidéos en boucle sur les écrans. Cliquez ici [https://vimeo.com/669257884] pour un aperçu.
 
@@ -36,11 +36,11 @@ Les composantes de l'oeuvre se composent de:
 - Une multitude de fils se situe sous les télévisions du sol ce qui rendait la vue difficile pour certaines composantes qui pourraient s'y retrouver.
 - L'artiste a aussi ajouté des vignes sortant de la boîte pour suivre l'idée et la réflexion autour de la Nature Morte 7.
 
-![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_boite_controle_01.png)![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_boite_controle_03.png)![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_boite_controle_05.png)![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_ecran_arriere.png)
+![Photo prise de la boite/écran principal](Photos/BIAN_Nature_more_7_boite_controle_01.png)![Deuxième photo prise de la boite/écran principal](Photos/BIAN_Nature_more_7_boite_controle_03.png)![Troisième photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_boite_controle_05.png)![Photo prise de l'arrière d'un écran](Photos/BIAN_Nature_more_7_ecran_arriere.png)
 
 Étant donné que l'oeuvre comprend plusieurs écrans, beaucoup de fils sont nécessaires pour faire fonctionner le tout. Malgré qu'elle se situe en plein milieu de l'espace, la majorité des fils ont pu être cachés sous les télévisions situées au sol à l'exception de quelques composantes électroniques que nous pouvons apercevoir lorsque nous nous rapprochons. De plus, comme cité ci-dessus, il était nécessaire de suspendre les télévisions par deux fils de fer au plafond pour être certains qu'elles ne tombent pas.
 
-![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_installation_01.png) ![Photo prise devant la batisse de l'exposition](Photos/BIAN_Nature_more_7_installation_02.png)
+![Photo prise de l'installation suspendue](Photos/BIAN_Nature_more_7_installation_01.png) ![Deuxième photo prise de l'installation suspendue](Photos/BIAN_Nature_more_7_installation_02.png)
 
 ## Expérience vécue
 
