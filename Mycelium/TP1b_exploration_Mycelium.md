@@ -23,3 +23,7 @@ pertinent et en créant des fichiers agréables à lire, dans lesquels on repèr
 ## 4. Echomarine
 
 ## 5. Zodie-Gal
+# Description du projet
+# Compétences nécessaires
+# Nouvelle connaissance
+# Expérience personel
