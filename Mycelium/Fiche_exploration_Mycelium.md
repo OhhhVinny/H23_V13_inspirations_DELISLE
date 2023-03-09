@@ -27,6 +27,8 @@ Le projet est une projection sur 3 murs qui nous donne un aperçu de la beauté 
 - Tracy Gua
 - Maria Laura Coronel
 ### Compétences nécessaires
-- Le cours d'
+- Le cours d'animation 2D est nécéssaire pour les différentes animations des animaux marins ainsi que certaines animations présentées.
+- Les différents cours d'audio sont éssentiels pour créer l'ambiance et les différents bruitages.
+- Le cours de traitement audiovisuel est important aussi pour pouvoir bien intégrer les différentes composantes du projet. 
 ### Nouvelle connaissance
 ### Expérience personel
