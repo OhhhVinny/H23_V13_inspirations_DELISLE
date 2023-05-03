@@ -10,7 +10,7 @@ Ce projet est une installation interactive. Le but de cette installation est de 
 - Meryem Berbiche
 - Jean-Christophe
 
-<img src:="Photos/MYCELIUM_Edria_installation_studio.jpg" width="500">
+<img src:="Photos/MYCELIUM_Edria_installation_studio.jpg" alt="studio" width="200">
 ![Photo prise en studio de l'installation](Photos/MYCELIUM_Edria_installation_studio.jpg)
 ![Schéma de l'installation prévu.](Photos/MYCELIUM_Edria_schema.jpg)
 
