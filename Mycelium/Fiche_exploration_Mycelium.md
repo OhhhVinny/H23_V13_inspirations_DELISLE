@@ -11,8 +11,6 @@ Ce projet est une installation interactive. Le but de cette installation est de 
 - Jean-Christophe
 
 ![Photo prise en studio de l'installation](Photos/MYCELIUM_Edria_installation_studio.jpg)
-
-![Photo prise en studio de l'installation](Photos/MYCELIUM_Edria_installation_studio.jpg)
 ![Schéma de l'installation prévu.](Photos/MYCELIUM_Edria_schema.jpg)
 
 ## 2. Boucler la boucle(Nexum)
