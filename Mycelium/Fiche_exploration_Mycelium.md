@@ -56,3 +56,9 @@ Lorsque j'ai assisté au montage des différents projets, j'ai découvert une co
 ## Expérience personelle
 En expérimentant chacune des installations, je pense que je ressentirai un mélange d'excitation et de surprise. En tant que spectateur, j'aurai la chance de découvrir les créations artistiques des quatres équipes et de voir comment elles ont été conçues et réalisées. Je serai probablement émerveillé par les effets visuels et sonores, ainsi que par les interactions créatives que les projets permettent.  Les projets artistiques multimédia nécessitent souvent une grande quantité de travail et de créativité, et je suis convaincu que les équipes ont réussi à créer des œuvres d'art vraiment uniques et inspirantes.
 
+## Références
+- https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
+- https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
+- https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+- https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
+
