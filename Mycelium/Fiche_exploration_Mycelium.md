@@ -10,8 +10,8 @@ Ce projet est une installation interactive. Le but de cette installation est de 
 - Meryem Berbiche
 - Jean-Christophe
 
-![Photo prise en studio de l'installation]()
-![Schéma de l'installation prévu.]()
+![Photo prise en studio de l'installation](Photos/MYCELIUM_Edria_installation_studio.jpg)
+![Schéma de l'installation prévu.](Photos/MYCELIUM_Edria_schema.jpg)
 
 ## 2. Boucler la boucle(Nexum)
 ### Description du projet
@@ -21,8 +21,8 @@ Ce projet comprend une expérience lumineuse immergeante, des animations sensati
 - Alexandre Daniel
 - Maxime Des Lauriers
 
-![Photo prise en studio de l'installation]()
-![Schéma de l'installation prévu.]()
+![Photo prise en studio de l'installation](Photos/MYCELIUM_Nexum_installation_studio.jpg)
+![Schéma de l'installation prévu.](Photos/MYCELIUM_Nexum_schema.jpg)
 
 ## 3. Luma Sol
 ### Description du projet
@@ -32,8 +32,8 @@ Le projet démontre l'importance pour les humains de demeurer en contact avec la
 - Michaël Simard
 - Pénélope Morrisson
 
-![Photo prise en studio de l'installation]()
-![Schéma de l'installation prévu.]()
+![Photo prise en studio de l'installation](Photos/MYCELIUM_luma_sol_installation_studio.jpg)
+![Schéma de l'installation prévu.](Photos/MYCELIUM_luma_sol_schema.jpg)
 
 ## 4. Echomarine
 ### Description du projet
