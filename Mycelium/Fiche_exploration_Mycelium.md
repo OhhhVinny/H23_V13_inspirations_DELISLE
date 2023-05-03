@@ -44,7 +44,7 @@ Le projet est une projection sur 3 murs qui nous donne un aperçu de la beauté 
 - Maria Laura Coronel
 
 ![Photo prise en studio de l'installation](Photos/MYCELIUM_Echomarine_installation_studio.jpg)
-![Schéma de l'installation prévu.](Photos/MYCELIUM_Echomarine_schema.png)
+![Schéma de l'installation prévu.](Photos/MYCELIUM_Echomarine_schema.jpg)
 
 ## Compétences nécessaires
 Les projets comportent un grand nombre de compétences nécessaires à leur réalisation. Quelques-une d'entres-elles sont:
