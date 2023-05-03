@@ -32,7 +32,7 @@ Le projet démontre l'importance pour les humains de demeurer en contact avec la
 - Michaël Simard
 - Pénélope Morrisson
 
-![Photo prise en studio de l'installation](Photos/MYCELIUM_luma_sol_installation_studio.jpg)
+![Photo prise en studio de l'installation](Photos/MYCELIUM_Luma_sol_installation_studio.jpg)
 ![Schéma de l'installation prévu.](Photos/MYCELIUM_luma_sol_schema.jpg)
 
 ## 4. Echomarine
