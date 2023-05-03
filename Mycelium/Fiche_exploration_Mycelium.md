@@ -10,6 +10,9 @@ Ce projet est une installation interactive. Le but de cette installation est de 
 - Meryem Berbiche
 - Jean-Christophe
 
+![Photo prise en studio de l'installation]()
+![Schéma de l'installation prévu.]()
+
 ## 2. Boucler la boucle(Nexum)
 ### Description du projet
 Ce projet comprend une expérience lumineuse immergeante, des animations sensationnels et une ambiance musicale des plus spécials. Ce parcours interactif permet la communion entre l'humain et la nature tout en nous plongeant au coeur d'un marais aux apparences magique. Boucler la boucle a été réalisé par:
@@ -17,6 +20,9 @@ Ce projet comprend une expérience lumineuse immergeante, des animations sensati
 - Sabrina Laforest
 - Alexandre Daniel
 - Maxime Des Lauriers
+
+![Photo prise en studio de l'installation]()
+![Schéma de l'installation prévu.]()
 
 ## 3. Luma Sol
 ### Description du projet
@@ -26,6 +32,9 @@ Le projet démontre l'importance pour les humains de demeurer en contact avec la
 - Michaël Simard
 - Pénélope Morrisson
 
+![Photo prise en studio de l'installation]()
+![Schéma de l'installation prévu.]()
+
 ## 4. Echomarine
 ### Description du projet
 Le projet est une projection sur 3 murs qui nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. Echomarine a un but contemplatif et vise à conscientiser. Echomarine a été réalisé par:
@@ -33,6 +42,9 @@ Le projet est une projection sur 3 murs qui nous donne un aperçu de la beauté 
 - Natacha Abdallah
 - Tracy Gua
 - Maria Laura Coronel
+
+![Photo prise en studio de l'installation]()
+![Schéma de l'installation prévu.]()
 
 ## Compétences nécessaires
 Les projets comportent un grand nombre de compétences nécessaires à leur réalisation. Quelques-une d'entres-elles sont:
