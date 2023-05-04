@@ -28,7 +28,7 @@ Ressources spatiales requises
 []()
 
 ## Expérience vécue
-Selon la [page de présentation d'Edria](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html), l'intention de base des étudiants était: Dans un univers féerique, rassembler autour d'une sculpture représentant la dualité entre la technologie et la nature. Avec seulement quelques mots, ils ont bien réussis à représenter le résultat final. En effet, l'installation était composée de quatre côtés avec deux piliers, au centre desquels se trouvait un gros pilier. Les visiteurs étaient invités à interagir avec l'œuvre. Edria est séparés en trois phases qui varient selon les interactions des spectateurs. 
+Selon la [page de présentation d'Edria](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html), l'intention de base des étudiants était: Dans un univers féerique, rassembler autour d'une sculpture représentant la dualité entre la technologie et la nature. Avec seulement quelques mots, ils ont bien réussis à représenter le résultat final. En effet, l'installation était composée de quatre côtés avec deux piliers, au centre desquels se trouvait un gros pilier. Les visiteurs étaient invités à se placer devant 1 des 4 capteurs du poteau central. Edria est séparés en trois phases qui varient selon les interactions des spectateurs. 
 
 ### État de sommeil 
 l'état de sommeil se produit lorsqu'il n'y a personne qui intéragit avec l'oeuvre. Un effet de respiration dans l'audio, les lumières suivant le rythme, se répète en boucle tant et aussi longtemps que personne n'est détecté.
