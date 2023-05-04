@@ -8,6 +8,7 @@ L'œuvre Edria, anciennement appelée "Entre-Fungus", est le projet que j'ai pr�
 Étant un projet de grande envergure, Une grande liste d'équipements étaient nécessaire au bon fonctionnement d'Edria. En voici quelqu'uns:
 Matériel de scénographie
 - Poteaux
+- Branchement électrique
 - Cabanon central
 Équipements requis
 - Lumières
