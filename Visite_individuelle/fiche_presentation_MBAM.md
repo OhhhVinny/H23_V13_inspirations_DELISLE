@@ -39,5 +39,5 @@ j'ai aimer le style artistique de nina avec des dessins colorés et avec une for
 ## Références
 
 - Jean-Noël Desmarais Pavilion. Photo MMFA, Christine Guest (photo batisse) https://www.mbam.qc.ca/en/the-museum/jean-noel-desmarais-pavilion/
-- Vue de l’installation Can You Hear Me? [M’entends-tu ?] de Nalini Malani au Museu de Arte Contemporânea de Serralves, Porto, 2020. Salle d’animation. © Nalini Malani / Photo Filipe Braga (photo piece et equipement, crop pour equipement) https://www.mbam.qc.ca/fr/expositions/nalini-malani/
+- Vue de l’installation Can You Hear Me? [M’entends-tu ?] de Nalini Malani au Museu de Arte Contemporânea de Serralves, Porto, 2020. Salle d’animation. © Nalini Malani / Photo Filipe Braga https://www.mbam.qc.ca/fr/expositions/nalini-malani/
 
