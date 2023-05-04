@@ -13,6 +13,7 @@ Matériel de scénographie
 Équipements requis
 - Lumières
 - Connection / controlleur
+- Capteurs
 - Installation
 - Ordinateur
 - Décorations
