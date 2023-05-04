@@ -24,6 +24,7 @@ Ressources spatiales requises
 - Grand Studio
 - Petit Studio
 
+[]()
 
 ## Expérience vécue
 Selon la [page de présentation d'Edria](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html), l'intention de base des étudiants était: Dans un univers féerique, rassembler autour d'une sculpture représentant la dualité entre la technologie et la nature. Avec seulement quelques mots, ils ont bien réussis à représenter le résultat final. En effet, l'installation était composée de quatre côtés avec deux piliers, au centre desquels se trouvait un gros pilier. Les visiteurs étaient invités à interagir avec l'œuvre. Edria est séparés en trois phases qui varient selon les interactions des spectateurs. 
@@ -32,7 +33,7 @@ Selon la [page de présentation d'Edria](https://tim-montmorency.com/2023/projet
 l'état de sommeil se produit lorsqu'il n'y a personne qui intéragit avec l'oeuvre. Un effet de respiration dans l'audio, les lumières suivant le rythme, se répète en boucle tant et aussi longtemps que personne n'est détecté.
 ### État d'éveil
 Lorsqu'une personne entre dans la zone d'un côté de la sculpture, la technologie associée au côté s'active avec un son lui correspondant ainsi qu'un changement au niveau des lumières. À chaque fois qu'un visiteur de plus se joint à l'oeuvre, il y a un nouveau changement au niveau des lumières et du son.
-### Troisième phase
+### Climax
 Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation de lumières et de sons entre 45 et 60 secondes s'active.
 
 ## Ce qui m'a plu, donné des idées
