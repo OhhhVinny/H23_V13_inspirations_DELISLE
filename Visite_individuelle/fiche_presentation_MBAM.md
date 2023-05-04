@@ -15,14 +15,13 @@ Elle a été exposée lors de l'événement. Cette installation se compose d'une
 
 ## Composantes et techniques
 
-Étant donné que ce sont des projections d'animations de dessins il n'y a pas beaucoup d'équipement à première vue d'oeil. Il est possible de voir les 9 projecteurs  placé selon un angle intéressante pour donné une impression de perspective.
+Étant donné que ce sont des projections d'animations de dessins il n'y a pas beaucoup d'équipement à première vue d'oeil. Il est possible de voir les 9 projecteurs  placé au plafond. Il n'y avait aucun équipement visible autres que ceux-ci.
 
 ![Cartel de l'oeuvre](Photos/MBAM_frontiere_cartel.jpg)![Fiche composantes](Photos/MBAM_frontiere_fiche_composantes_01.jpg)
 
-Les canaux sont suspendue au plafond par des barres de métals selon un angle intéressante pour donné une impression de perspective aux animations.
-![Équipement visible](Photos/MBAM_frontiere_equipement.jpg)
-Nous pouvons suposés les éléments nécessaires à la mise en exposition comme beaucoup de fil électrique et de branchement en arrière-scène pour pouvoir faire fonctioner l'installation
+Les canaux sont suspendue au plafond par des barres de métals selon un angle intéressante pour donné une impression de perspective aux animations. Nous pouvons suposés les éléments nécessaires à la mise en exposition comme beaucoup de fil électrique et de branchement en arrière-scène pour pouvoir faire fonctioner l'installation
 
+![Équipement visible](Photos/MBAM_frontiere_equipement.jpg)
 ![Images des projecteurs](Photos/MBAM_frontiere_projecteurs_01.jpg)
 
 ## Expérience vécue
