@@ -16,7 +16,7 @@ Mon expérience de cette œuvre a été intense et captivante. Les images animé
 
 ## Appréciation critique
 
-j'ai aimer le style artistique de nina avec des dessins colorés et avec une forte signification. Je n'ai pas aimer les transisitions images par images qui étaient trop rapide et difficile a suivre. Il prenait environ une minute avant de retomber au debut du cycle de l'animation. 
+j'ai aimer le style artistique de nina avec des dessins colorés et avec une forte signification.  Mon appréciation critique de cette œuvre est varié. J'ai été particulièrement impressionné par la qualité de l'animation et la pertinence des thèmes abordés. Les images symboliques et poétiques ont suscité en moi une réflexion sur notre société et ses défis actuels. Si je devais faire une critique constructive, je suggérerais peut-être d'ajouter une certaine interactivité pour permettre aux visiteurs d'explorer l'œuvre de manière plus personnelle. De plus, ralentir la vitesse de l'animation pourrait aider les spectateurs à mieux apprécier les différents dessins.
 
 ## Références
 - Jean-Noël Desmarais Pavilion. Photo MMFA, Christine Guest (photo batisse) https://www.mbam.qc.ca/en/the-museum/jean-noel-desmarais-pavilion/
