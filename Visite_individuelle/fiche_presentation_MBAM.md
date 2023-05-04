@@ -19,7 +19,7 @@ Elle a été exposée lors de l'événement. Cette installation se compose d'une
 
 ![Cartel de l'oeuvre](Photos/MBAM_frontiere_cartel.jpg)![Fiche composantes](Photos/MBAM_frontiere_fiche_composantes_01.jpg)
 
-Les canaux sont suspendue au plafond par des barres de métales selon un angle intéressente pour donné une impression de perspective aux animations. Nous pouvons suposés les éléments nécessaires à la mise en exposition comme beaucoup de fil électrique et de branchement en arrière scène pur pouvoir faire fonctioner l'installation
+Les canaux sont suspendue au plafond par des barres de métals selon un angle intéressente pour donné une impression de perspective aux animations. Nous pouvons suposés les éléments nécessaires à la mise en exposition comme beaucoup de fil électrique et de branchement en arrière scène pur pouvoir faire fonctioner l'installation
 
 ![Équipement visible](Photos/MBAM_frontiere_equipement.jpg)![Images des projecteurs](Photos/MBAM_frontiere_projecteurs_01.jpg)
 
@@ -38,7 +38,6 @@ j'ai aimer le style artistique de nina avec des dessins colorés et avec une for
 
 ## Références
 
--Jean-Noël Desmarais Pavilion. Photo MMFA, Christine Guest (photo batisse) https://www.mbam.qc.ca/en/the-museum/jean-noel-desmarais-pavilion/
-
+- Jean-Noël Desmarais Pavilion. Photo MMFA, Christine Guest (photo batisse) https://www.mbam.qc.ca/en/the-museum/jean-noel-desmarais-pavilion/
 - Vue de l’installation Can You Hear Me? [M’entends-tu ?] de Nalini Malani au Museu de Arte Contemporânea de Serralves, Porto, 2020. Salle d’animation. © Nalini Malani / Photo Filipe Braga (photo piece et equipement, crop pour equipement) https://www.mbam.qc.ca/fr/expositions/nalini-malani/
 
