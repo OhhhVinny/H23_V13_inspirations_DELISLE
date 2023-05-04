@@ -17,7 +17,7 @@
 
  - Appréciation critique de cette œuvre est varié. Aimer le style artistique mais ralentir la vitesse de l'animation pourrait aider les spectateurs à mieux comprendre le sens.
  
- -Il est possible de faire un lien entre l'oeuvre de Nalini et le projet Echomarine d'une des équipes en 3e année.
+ - Il est possible de faire un lien entre l'oeuvre de Nalini et le projet Echomarine d'une des équipes en 3e année.
 
 ## Conclusion
 
