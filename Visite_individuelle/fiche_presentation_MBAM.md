@@ -7,7 +7,7 @@ L'œuvre « Can You Hear Me? » a été réalisée par l'artiste indienne Nalini
 
 ## Composantes et techniques
 
-Étant donné que ce soit des projections d'animations de dessins il n'y a pas beaucoup d'équipement à première vue d'oeil. Il est possible de voir les 9 projecteurs  placé selon un angle intéressente pour donné une impression de perspective. Les canaux sont suspendue au plafond par des barres de métales selon un angle intéressente pour donné une impression de perspective aux animations. Nous pouvons suposés les éléments nécessaires à la mise en exposition comme beaucoup de fil électrique et de branchement en arrière scène pur pouvoir faire fonctioner l'installation
+Étant donné que ce sont des projections d'animations de dessins il n'y a pas beaucoup d'équipement à première vue d'oeil. Il est possible de voir les 9 projecteurs  placé selon un angle intéressente pour donné une impression de perspective. Les canaux sont suspendue au plafond par des barres de métales selon un angle intéressente pour donné une impression de perspective aux animations. Nous pouvons suposés les éléments nécessaires à la mise en exposition comme beaucoup de fil électrique et de branchement en arrière scène pur pouvoir faire fonctioner l'installation
 
 ## Expérience vécue
 
