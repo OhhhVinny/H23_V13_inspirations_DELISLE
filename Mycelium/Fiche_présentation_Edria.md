@@ -3,7 +3,7 @@ Le 23 mars 2023, j'ai assisté à l'exposition temporaire et extérieure "Mycél
 
 L'œuvre Edria, anciennement appelée "Entre-Fungus", est le projet que j'ai préféré et a été réalisée par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe. Edria est une installation temporaire et interactive qui a été présentée à l’extérieur du collège. L'utilisation de lumières était au coeur de leur idée et étant donnée le sujet autour de l'environnement, l'exposition se situait l'extérieur. Une expérience de soir était l'idéal pour admirer encore plus l'oeuvre.
 
-[Produit final reproduit](Photos/MYCELIUM_Edria_produit_final_reproduit.jpg)
+![Produit final reproduit](Photos/MYCELIUM_Edria_produit_final_reproduit.jpg)
 
 ## Composantes et techniques
 Étant un projet de grande envergure, Une grande liste d'équipements étaient nécessaire au bon fonctionnement d'Edria. En voici quelqu'uns:
@@ -12,7 +12,7 @@ Matériel de scénographie
 - Branchement électrique
 - Cabanon central
 
-[Schéma des passe-fils](Photos/MYCELIUM_Edria_schema_passe_fils.jpg)[Schéma du poteau central](Photos/MYCELIUM_Edria_schema_poteau_central.jpg)
+![Schéma des passe-fils](Photos/MYCELIUM_Edria_schema_passe_fils.jpg)![Schéma du poteau central](Photos/MYCELIUM_Edria_schema_poteau_central.jpg)
 
 Équipements requis
 - Lumières
@@ -41,7 +41,7 @@ Lorsqu'une personne entre dans la zone d'un côté de la sculpture, la technolog
 ### Climax
 Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation de lumières et de sons entre 45 et 60 secondes s'active.
 
-[Vue d'ensemble de l'oeuvre](Photos/MYCELIUM_Edria_vue_densemble.jpg)
+![Vue d'ensemble de l'oeuvre](Photos/MYCELIUM_Edria_vue_densemble.jpg)
 
 ## Ce qui m'a plu, donné des idées
 J'ai adoré les visuels ainsi que l'immersion de l'oeuvre. Ce qui m'a aussi plu dans l'œuvre "Edria", c'est la façon dont les artistes ont utilisé la symbolique du mycélium pour créer une installation interactive qui encourageait les visiteurs à se connecter les uns aux autres. L'œuvre a réussi à créer une expérience immersive et contemplative qui était à la fois ludique et réflexive. L'univers féérique que les étudiants ont réussis à concevoir était magique.
