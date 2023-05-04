@@ -35,7 +35,7 @@ La qualité de l'animation était remarquable et la musique contribuait à renfo
 
 ## Appréciation critique
 
-j'ai aimer le style artistique de nina avec des dessins colorés et avec une forte signification.  Mon appréciation critique de cette œuvre est varié. J'ai été particulièrement impressionné par la qualité de l'animation et la pertinence des thèmes abordés. Les images symboliques et poétiques ont suscité en moi une réflexion sur notre société et ses défis actuels. Si je devais faire une critique constructive, je suggérerais peut-être d'ajouter une certaine interactivité pour permettre aux visiteurs d'explorer l'œuvre de manière plus personnelle. De plus, ralentir la vitesse de l'animation pourrait aider les spectateurs à mieux apprécier les différents dessins.
+Mon appréciation critique de cette œuvre est varié. J'ai été particulièrement impressionné par la qualité de l'animation ,la pertinence des thèmes abordés ainsi que le style artistique de Nalini avec des dessins colorés et avec une forte signification. Les images symboliques et poétiques ont suscité en moi une réflexion sur notre société et ses défis actuels. Si je devais faire une critique constructive, je suggérerais peut-être d'ajouter une certaine interactivité pour permettre aux visiteurs d'explorer l'œuvre de manière plus personnelle. De plus, ralentir la vitesse de l'animation pourrait aider les spectateurs à mieux apprécier les différents dessins.
 
 ## Références
 
