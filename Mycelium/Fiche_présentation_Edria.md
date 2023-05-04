@@ -35,8 +35,6 @@ Lorsqu'une personne entre dans la zone d'un côté de la sculpture, la technolog
 ### Troisième phase
 Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation de lumières et de sons entre 45 et 60 secondes s'active.
 
-L'expérience vécue était interactive et immersive. L'installation réagissait aux mouvements des visiteurs, en illuminant et en émettant des sons. Cette interaction visuelle et sonore créait une expérience hors du commun.
-
 ## Ce qui m'a plu, donné des idées
 J'ai adoré les visuels ainsi que l'immersion de l'oeuvre. Ce qui m'a aussi plu dans l'œuvre "Edria", c'est la façon dont les artistes ont utilisé la symbolique du mycélium pour créer une installation interactive qui encourageait les visiteurs à se connecter les uns aux autres. L'œuvre a réussi à créer une expérience immersive et contemplative qui était à la fois ludique et réflexive. L'univers féérique que les étudiants ont réussis à concevoir était magique.
 
