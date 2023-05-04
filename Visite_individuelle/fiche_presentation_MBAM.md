@@ -5,7 +5,7 @@ Le 25 avril dernier, j'ai eu la chance de visiter l'exposition "Par-delà les fr
 ![Batiment du MBAM](Photos/MBAM_frontiere_batiment.jpg)
 
 ## Can You Hear Me? [M’entends-tu?] (2018-2020)
-L'œuvre « Can You Hear Me? » a été réalisée par l'artiste indienne Nalini Malani en 2018-2020. 
+L'œuvre « Can You Hear Me? » a été réalisée par l'artiste indienne Nalini Malani en 2018-2020. Nalini Malani (née en 1946) est considérée comme la pionnière de l'art vidéo en Inde et a travaillé dans le domaine de l'art multimédia depuis les années 1960. Elle intègre une variété de formes artistiques dans sa pratique, notamment l'animation, les arts scéniques, la photographie, la peinture, la performance, le cinéma et la vidéo. En 2019, elle a remporté le prix Joan-Miró et a présenté son travail dans 30 expositions individuelles dans des musées internationaux tels que le Centre Pompidou (Paris), la Whitechapel Gallery (Londres), le M+ (Hong Kong), l'Art Gallery of South Australia (Adélaïde) et la National Gallery (Londres). 
 
 ![Photo de l'artiste](Photos/MBAM_frontiere_photo_artiste.jpg)
 
