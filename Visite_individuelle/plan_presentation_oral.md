@@ -2,23 +2,24 @@
 
 ## Introduction
 
-- Quel est l'objectif de votre communication (sujet posé = présentation oeuvre ou du dispositif + expérience)
+- L'objectif de cette présentation orale  est de présenté une œuvre expérimenter individuellement et de présenter ses caractéristiques inspirantes
 
-- Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
-Développement :
+- Les aspects seront abordés: Informations sur l'exposition, informations de l'oeuvre et de l'artiste, mon experience vécu ainsi que mon appréciation critique de celle-ci.
+
 
 ## Developpement
 
- - Informations sur l'oeuvre ou le dispositif multimémia et le lieu d'exposition (Titre, Nom de l'artiste ou de la firme, Année de réalisation, Nom de l'exposition ou de l'événement, Type d'exposition, Lieu de mise en exposition + Infos sur le lieu, Date de votre visite)
+ - Le 25 avril dernier, j'ai eu la chance de visiter l'exposition "Par-delà les frontières"(Immersive et pas d'interactivité) au Musée des beaux-arts de Montréal.
  
- - Présentation détaillée de l'oeuvre ou du dispositif multimédia (description, type d'installation, fonction, mise en espace, composantes, éléments)
- - 
- - Expérience vécue (Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité/contemplation/immersion/fonction, des gestes à poser, etc)
- - Appréciation critique et justifications (Ce qui vous a plu, vous a donné des idées + Aspects que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
+ - Cette installation se compose d'une salle d'animation à 9 canaux contenant 88 animations image par image dessinées à la main sur iPad. Lazyboys au centre de la pièce
  
- -Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session
+ - Mon expérience de cette œuvre a été intense et captivante. Les images animées m'ont transporté dans l'univers de l'artiste qui m'a fait réfléchir sur les thèmes universels tels que la guerre, la paix, la mémoire collective et les inégalités entre les sexes.
+
+ - Appréciation critique de cette œuvre est varié. Aimer le style artistique mais ralentir la vitesse de l'animation pourrait aider les spectateurs à mieux comprendre le sens.
+ 
+ -Il est possible de faire un lien entre l'oeuvre de Nalini et le projet Echomarine d'une des équipes en 3e année.
 
 ## Conclusion
 
- - Rappel des aspects présentés
- - Ouverture : élément inspirant retenu parmi toutes les oeuvres, dispositfs et expériences de la session
+ - Retour sur l'oeuvre de l'artiste, la mise en espace, les ommposantes et la signification de l'oeuvre
+ - Cette exposition a été une  belle expérience qui a suscité des réflexions importantes sur la manière dont l'art peut remettre en question les idées reçues et nous amener à voir le monde sous un nouvel angle. 
