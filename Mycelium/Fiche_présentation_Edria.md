@@ -12,7 +12,7 @@ Matériel de scénographie
 - Branchement électrique
 - Cabanon central
 
-![Schéma des passe-fils](Photos/MYCELIUM_Edria_schema_passe_fils.jpg){Schéma des passe-fils} [![Schéma du poteau central](Photos/MYCELIUM_Edria_schema_poteau_central.jpg)
+![Schéma des passe-fils](Photos/MYCELIUM_Edria_schema_passe_fils.jpg){% Schéma des passe-fils %}![Schéma du poteau central](Photos/MYCELIUM_Edria_schema_poteau_central.jpg)
 
 Équipements requis
 - Lumières
